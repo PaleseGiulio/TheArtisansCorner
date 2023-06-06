@@ -14,7 +14,7 @@
         {{ session('access.denied') }}
     </div>
 @endif
-    <x-header>
+    <x-header >
 
         <div class="miocontainer">
             <video class="videomio" src="/media/TheArtisansCorner.mp4" autoplay muted loop></video>
